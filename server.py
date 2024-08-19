@@ -15,7 +15,7 @@
 # jp		      Japón (Tokyo)
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
-# us-cal-1	      Estados unidos (California)
+# us-cal-1	      Estados unidos (California)sto
 
 
 # No toques nada de aquí para abajo, puedes dañarlo
@@ -38,8 +38,7 @@ def download_latest_release(download_path='.'):
 			return version
 		else:
 			os.system("rm *.msp")
-			print("Actualizando tu versión de MSP...")
-			time.sleep(1.5)
+			print("Actualizando tu versión de MSP...")			time.sleep(1.5)
 		pathto = os.path.join(download_path, version)
 		with open(pathto, 'wb') as archivo:
 			archivo.write(requests.get(url).content)
