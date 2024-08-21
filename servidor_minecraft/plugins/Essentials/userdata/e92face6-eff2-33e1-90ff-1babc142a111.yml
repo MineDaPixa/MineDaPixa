@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.80.22.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724193592259
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724195766555
+  login: 1724184138895
+money: '138.6'
+last-account-name: RenzoRJ
+logoutlocation:
+  world: 967aae82-82b2-445e-82c9-d541fc601fed
+  world-name: world
+  x: 207.17119273743165
+  y: 67.0
+  z: -5863.425747845835
+  yaw: -169.764892578125
+  pitch: 24.406757354736328
+lastlocation:
+  world: 967aae82-82b2-445e-82c9-d541fc601fed
+  world-name: world
+  x: -1514.4371175688746
+  y: -25.0
+  z: 792.818986924724
+  yaw: -158.77703857421875
+  pitch: 25.908349990844727
+homes:
+  home:
+    world: 25cea5d2-c78f-4fa6-a343-76f0d0e62107
+    world-name: world_the_end
+    x: 2326.699999988079
+    y: 98.0
+    z: -507.30000001192093
+    yaw: 138.4561767578125
+    pitch: 48.87567901611328
+  cherry:
+    world: 967aae82-82b2-445e-82c9-d541fc601fed
+    world-name: world
+    x: -668.484277928977
+    y: 86.0
+    z: 433.87970867128695
+    yaw: -4.020721435546875
+    pitch: 19.317174911499023

@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.90.240.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724193284457
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724198586799
+  login: 1724184133357
+money: '12878.0'
+last-account-name: Tigui398
+lastlocation:
+  world: 967aae82-82b2-445e-82c9-d541fc601fed
+  world-name: world
+  x: -347.699647931911
+  y: 118.0
+  z: 1140.1127997243198
+  yaw: 74.584716796875
+  pitch: 19.91015625
+logoutlocation:
+  world: 967aae82-82b2-445e-82c9-d541fc601fed
+  world-name: world
+  x: 1119.9129446840548
+  y: -45.0
+  z: 2869.953412160689
+  yaw: -98.26953125
+  pitch: 32.3218994140625
+homes:
+  cherry:
+    world: 967aae82-82b2-445e-82c9-d541fc601fed
+    world-name: world
+    x: -821.6943956497446
+    y: 119.0
+    z: 410.93888558507103
+    yaw: 171.63235473632812
+    pitch: -0.04020250588655472
+  vila:
+    world: 967aae82-82b2-445e-82c9-d541fc601fed
+    world-name: world
+    x: -1357.9373253828887
+    y: 86.0
+    z: 671.5612528930562
+    yaw: 121.07275390625
+    pitch: 29.893997192382812
+  portalend:
+    world: 967aae82-82b2-445e-82c9-d541fc601fed
+    world-name: world
+    x: -1516.67991464315
+    y: -28.0
+    z: 798.0261176295209
+    yaw: -161.91461181640625
+    pitch: 11.193328857421875

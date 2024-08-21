@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.108.158.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724186156832
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724186773653
+  login: 1724184181146
+money: '0'
+last-account-name: MestreOOF
+lastlocation:
+  world: 967aae82-82b2-445e-82c9-d541fc601fed
+  world-name: world
+  x: 219.95028911832523
+  y: -24.0
+  z: -323.9539396930504
+  yaw: 4.48388671875
+  pitch: 11.549969673156738
+logoutlocation:
+  world: 967aae82-82b2-445e-82c9-d541fc601fed
+  world-name: world
+  x: -32.5
+  y: 76.0
+  z: -2.5
+  yaw: 12.149999618530273
+  pitch: 18.150005340576172

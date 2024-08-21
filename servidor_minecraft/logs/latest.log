@@ -1,0 +1,72 @@
+[00:01:46] [Server thread/INFO]: Tigui398 issued server command: /alts Tigui398
+[00:01:57] [Server thread/INFO]: Tigui398 issued server command: /baltop
+[00:02:09] [Server thread/INFO]: Tigui398 issued server command: /gamemode creative
+[00:02:18] [Server thread/INFO]: Tigui398 issued server command: /sell hand
+[00:02:18] [Server thread/INFO]: [Essentials] Tigui398 sold diamond for $12,800 (64 items at $200 each).
+[00:02:24] [Server thread/INFO]: Tigui398 issued server command: /gamemode survival
+[00:03:06] [Server thread/INFO]: Tigui398 lost connection: Disconnected
+[00:03:06] [Server thread/INFO]: Tigui398 left the game
+[00:05:33] [Server thread/INFO]: The difficulty has been set to Normal
+[00:05:42] [Async Chat Thread - #83/INFO]: [Not Secure] <AverageNigga> bom dia
+[00:05:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+cala-te<--[HERE]
+[00:05:56] [Server thread/INFO]: [Not Secure] [Server] cala-te
+[00:06:00] [Async Chat Thread - #83/INFO]: [Not Secure] <AverageNigga> nao quero
+[00:06:21] [Server thread/INFO]: [Not Secure] [Server] queres ver uma magia?
+[00:06:31] [Async Chat Thread - #83/INFO]: [Not Secure] <AverageNigga> quero
+[00:06:33] [Async Chat Thread - #83/INFO]: [Not Secure] <AverageNigga> acho eu
+[00:06:34] [Server thread/INFO]: Stopping the server
+[00:06:34] [Server thread/INFO]: Stopping server
+[00:06:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.1
+[00:06:34] [Server thread/INFO]: [AxTrade] Disabling AxTrade v1.7.1
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Disabling QuickShop-Hikari v6.2.0.6
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari/Bootstrap] QuickShop-Hikari - Bootstrap -> Execute the shutdown sequence
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] QuickShop is finishing remaining work, this may need a while...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Shutting down error reporter...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Unloading all loaded shops...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Stopping shop auto save...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Saving all in-memory changed shops...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Cleaning up shop manager...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Unloading loaded shops...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Saving shops, please allow up to 30 seconds for flush changes into database...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Stopping log watcher...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Shutting down scheduled timers...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Shutting down event calendar watcher...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Shutting down update watcher...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Shutting down 3rd-party integrations...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari] Shutting down database connections...
+[00:06:34] [Server thread/INFO]: [cc.carm.lib.easysql.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[00:06:34] [Server thread/INFO]: [cc.carm.lib.easysql.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari/Bootstrap] Cleaning up resources...
+[00:06:34] [Server thread/INFO]: [QuickShop-Hikari/Bootstrap] QuickShop-Hikari - Bootstrap -> All Complete (84ms)
+[00:06:34] [Server thread/INFO]: [MarketPlace] Disabling MarketPlace v1.13.0
+[00:06:34] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[00:06:34] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[00:06:35] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[00:06:35] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.139
+[00:06:35] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:06:35] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:06:35] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:06:35] [Server thread/INFO]: Saving players
+[00:06:35] [Server thread/INFO]: AverageNigga lost connection: Server closed
+[00:06:35] [Server thread/INFO]: AverageNigga left the game
+[00:06:35] [Server thread/INFO]: Saving worlds
+[00:06:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:06:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:06:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:06:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:06:36] [Server thread/INFO]: [ChunkHolderManager] Saved 264 block chunks, 364 entity chunks, 0 poi chunks in world 'world' in 0.99s
+[00:06:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:06:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:06:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:06:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:06:38] [Server thread/INFO]: [ChunkHolderManager] Saved 28 block chunks, 47 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
+[00:06:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:06:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:06:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:06:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:06:39] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.50s
+[00:06:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:06:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:06:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:06:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
